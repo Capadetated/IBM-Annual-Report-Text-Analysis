@@ -1,4 +1,4 @@
-# This program contains all the Python code used to textual analysis on the IBM Annual Reports for 1990, 2000, 2010, 2019, and 2020
+# This program contains all the Python code used for textual analysis on the IBM Annual Reports for 1990, 2000, 2010, 2019, and 2020
 # Data 620
 # Ted Fitch
 # Last updated 04APR21
